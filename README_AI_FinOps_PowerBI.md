@@ -1,5 +1,7 @@
 # AI FinOps Dashboard | Power BI
 
+## Author: Pedro Yanez Melendez
+
 ## Overview
 
 This project presents a Power BI dashboard designed to monitor the usage, cost, performance, and budget position of AI agents.
