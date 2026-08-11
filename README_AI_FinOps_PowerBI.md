@@ -25,7 +25,7 @@ It includes:
 - AI cost by agent
 - Month filter
 
-![Executive Summary](FinOps_Dashboard_Executive_Summary.png)
+
 
 The layout was designed to make the most important indicators visible immediately while keeping the page simple enough for executive review.
 
@@ -46,7 +46,7 @@ It includes:
 
 Conditional formatting was added to improve interpretation. Cost values use data bars, while budget variance uses background colors to highlight the financial position of each agent.
 
-![Agent Detail](FinOps_Dashboard_Agent_Detail.png)
+
 
 ## Data Structure
 
@@ -154,20 +154,6 @@ The objective was to keep the dashboard clear and practical rather than overload
 - Power BI data modeling
 - Conditional formatting
 - Interactive slicers and filters
-
-## Repository Files
-
-Recommended repository structure:
-
-```text
-/
-├── README.md
-├── AI_FinOps_Data.xlsx
-├── FinOps Dashboard.pbix
-├── AI_FinOps_PowerBI_Full_Visual_Build_Guide.docx
-├── FinOps_Dashboard_Executive_Summary.png
-└── FinOps_Dashboard_Agent_Detail.png
-```
 
 ## Outcome
 
